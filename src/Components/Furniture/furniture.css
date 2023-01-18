@@ -1,0 +1,13 @@
+.furniture-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 30px 50px;
+}
+.categories {
+  background-color: red;
+  width: 70%;
+  padding: 20px;
+}
+.product-list {
+  margin-left: -20%;
+}
